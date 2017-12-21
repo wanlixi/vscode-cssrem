@@ -6,7 +6,11 @@ A vscode editor's CSS to REM plug-in
 ![](https://github.com/wanlixi/vscode-cssrem/blob/master/vscode-cssrem-plugin.gif)
 
 <h3> 
-  I always want to transfer from sublime to vscode, and I have changed several times in the middle. Later, it is because some convenient plug-ins[cssrem](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem) or functions fail to find good solutions on vscode.
+  I always want to transfer from sublime to vscode, and I have changed several times in the middle. Later, it is because some convenient plug-ins
+</h3>
+  [cssrem](https://marketplace.visualstudio.com/items?itemName=cipchk.cssrem)
+<h3> 
+  or functions fail to find good solutions on vscode.
 
 For example, although the vscode has a plug-in on the top of the cow, there is one of the biggest drawbacks:
 
@@ -20,7 +24,7 @@ For example, although the vscode has a plug-in on the top of the cow, there is o
 
 ### solution:
   ##### windows OS
-    ```
-      C:\Users\Administractor\.vscode\extensions\cipchk.cssrem-0.0.3\out\src\process.js
-    ```
+    <code>
+      C:\Users\Administractor\.vscode\extensions\cipchk.cssrem-0.0.3\out\src\process.js
+    </code>
   ##### Replace this file
