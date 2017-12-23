@@ -22,4 +22,10 @@ For example, although the vscode has a plug-in on the top of the cow, there is o
     <code>
       C:\Users\Administractor\.vscode\extensions\cipchk.cssrem-0.0.3\out\src\process.js
     </code>
+  ##### Mac OS
+    打开命令行工具 输入 <code>cd .vscode/extensions/cipchk.cssrem-0.0.3/out/src/</code> 找到 process.js文件替换
+    <code>
+      \Users\xxxx\.vscode\extensions\cipchk.cssrem-0.0.3\out\src\process.js
+    </code>
   ##### Replace this file
+
